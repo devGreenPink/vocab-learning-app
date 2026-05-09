@@ -15,7 +15,7 @@
 
 ## Demo
 
-[https://devgreenpink.github.io/Vocab/](https://devgreenpink.github.io/vocab-learning-app/)
+https://devgreenpink.github.io/vocab-learning-app/
 
 ## Technologies Used
 
